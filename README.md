@@ -6,7 +6,5 @@
 
 use PyQt5 to realize a simple Minesweeper
 
-![image-20201113130341297](C:\Users\Jack London\AppData\Roaming\Typora\typora-user-images\image-20201113130341297.png)
-
 
 
